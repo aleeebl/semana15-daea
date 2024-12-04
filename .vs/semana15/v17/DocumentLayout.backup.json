@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\source\\repos\\semana15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0CA6F2-441C-4DDA-B280-511DFD129F7F}|semana15\\semana15.csproj|c:\\users\\alumno\\source\\repos\\semana15\\semana15\\dto\\req\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0CA6F2-441C-4DDA-B280-511DFD129F7F}|semana15\\semana15.csproj|solutionrelative:semana15\\dto\\req\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0CA6F2-441C-4DDA-B280-511DFD129F7F}|semana15\\semana15.csproj|c:\\users\\alumno\\source\\repos\\semana15\\semana15\\dto\\res\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0CA6F2-441C-4DDA-B280-511DFD129F7F}|semana15\\semana15.csproj|solutionrelative:semana15\\dto\\res\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0CA6F2-441C-4DDA-B280-511DFD129F7F}|semana15\\semana15.csproj|c:\\users\\alumno\\source\\repos\\semana15\\semana15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0CA6F2-441C-4DDA-B280-511DFD129F7F}|semana15\\semana15.csproj|solutionrelative:semana15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0CA6F2-441C-4DDA-B280-511DFD129F7F}|semana15\\semana15.csproj|c:\\users\\alumno\\source\\repos\\semana15\\semana15\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A0CA6F2-441C-4DDA-B280-511DFD129F7F}|semana15\\semana15.csproj|solutionrelative:semana15\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0CA6F2-441C-4DDA-B280-511DFD129F7F}|semana15\\semana15.csproj|c:\\users\\alumno\\source\\repos\\semana15\\semana15\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0CA6F2-441C-4DDA-B280-511DFD129F7F}|semana15\\semana15.csproj|solutionrelative:semana15\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0CA6F2-441C-4DDA-B280-511DFD129F7F}|semana15\\semana15.csproj|c:\\users\\alumno\\source\\repos\\semana15\\semana15\\semana15.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A0CA6F2-441C-4DDA-B280-511DFD129F7F}|semana15\\semana15.csproj|solutionrelative:semana15\\semana15.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\semana15\\semana15\\dto\\res\\PersonResponse.cs",
+              "RelativeDocumentMoniker": "semana15\\dto\\res\\PersonResponse.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\semana15\\semana15\\dto\\res\\PersonResponse.cs",
+              "RelativeToolTip": "semana15\\dto\\res\\PersonResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T00:06:26.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\semana15\\semana15\\dto\\req\\UserRequest.cs",
+              "RelativeDocumentMoniker": "semana15\\dto\\req\\UserRequest.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\semana15\\semana15\\dto\\req\\UserRequest.cs",
+              "RelativeToolTip": "semana15\\dto\\req\\UserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:52:10.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "semana15.csproj",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\semana15\\semana15\\semana15.csproj",
+              "RelativeDocumentMoniker": "semana15\\semana15.csproj",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\semana15\\semana15\\semana15.csproj",
+              "RelativeToolTip": "semana15\\semana15.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T23:42:25.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\semana15\\semana15\\Program.cs",
+              "RelativeDocumentMoniker": "semana15\\Program.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\semana15\\semana15\\Program.cs",
+              "RelativeToolTip": "semana15\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:19:50.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\semana15\\semana15\\appsettings.json",
+              "RelativeDocumentMoniker": "semana15\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\semana15\\semana15\\appsettings.json",
+              "RelativeToolTip": "semana15\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T23:23:14.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\semana15\\semana15\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "semana15\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\semana15\\semana15\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "semana15\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:19:48.675Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
